@@ -10,14 +10,14 @@ This hands-on lab was part of the **IBM Data Analyst Professional Certificate**,
 
 ## Objectives
 
-- Monitor **sales** and **service** performance across dealerships.
-- Visualize **KPIs**, **sentiment trends**, and **recall data**.
-- Compare BI capabilities between **Cognos Analytics** and **Looker Studio**.
+- Monitor **sales** and **service** performance across dealerships
+- Visualize **KPIs**, **sentiment trends**, and **recall data**
+- Compare BI capabilities between **Cognos Analytics** and **Looker Studio**
 
 ## Dataset
 
-- Source: IBM Accelerator Catalog (course-provided subset)
-- Format: XLSX/CSV (provided by the lab)
+- **Source**: IBM Accelerator Catalog (course-provided subset)
+- **Format**: XLSX/CSV (provided by the lab)
 
 ## Dashboard Pages & Metrics
 
@@ -73,6 +73,6 @@ This hands-on lab was part of the **IBM Data Analyst Professional Certificate**,
 
 ## Deliverables
 
-- [x] Two-tab dashboard (Sales & Service) in Cognos
-- [x] Two-tab dashboard (Sales & Service) in Looker
-- [x] Exported PDF dashboard reports for both implementations
+✅ Two-tab dashboard (Sales & Service) in Cognos  
+✅ Two-tab dashboard (Sales & Service) in Looker  
+✅ Exported PDF dashboard reports for both implementations  
