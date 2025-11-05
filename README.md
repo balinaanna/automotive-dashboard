@@ -75,4 +75,5 @@ This hands-on lab was part of the **IBM Data Analyst Professional Certificate**,
 
 ✅ Two-tab dashboard (Sales & Service) in Cognos  
 ✅ Two-tab dashboard (Sales & Service) in Looker  
-✅ Exported PDF dashboard reports for both implementations  
+✅ Exported [PDF Dashboard (Cognos)](./visuals/Automotive_Dashboard_Cognos.pdf)  
+✅ Exported [PDF Dashboard (Looker)](./visuals/Automotive_Dashboard_Looker.pdf)
